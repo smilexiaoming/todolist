@@ -15,11 +15,21 @@ React + AntDesign + webpack + koa2 + mysql
 
 ## Day 1
 
-## 今日目标
-1. 开发环境webpack
-2. 相当丑的界面（没错，恶心自己的）
+### 今日目标
+> 1.开发环境webpack
+> 2.相当丑的界面（没错，恶心自己的）
+
+项目结构
+> todolist
+> > public
+> > day1
+> > webpack.config.js
+> > package.json
+> > package-lock.json
+> > README.md
+> > .gitignore
 
 安装webpack
 ```s
-    npm install webpack webpack-cli --save-dev
+npm install webpack webpack-cli --save-dev
 ```
