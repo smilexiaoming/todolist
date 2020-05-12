@@ -20,14 +20,15 @@ React + AntDesign + webpack + koa2 + mysql
 2. 相当丑的界面（没错，恶心自己的）
 
 项目结构
-├──todolist
-|—— |—— public 
-|—— |—— day1 
-|—— |—— webpack.config.js 
-|—— |—— package.json 
-|—— |—— package-lock.json 
-|—— |—— README.md 
-|—— |—— .gitignore 
+
+|── todolist //项目目录
+| |—— public //生产环境目录
+| |—— day1  //开发目录
+| |—— webpack.config.js //webpack配置文件
+| |—— package.json  //包管理文件
+| |—— package-lock.json
+| |—— README.md
+| |—— .gitignore
 
 安装webpack
 ```s
