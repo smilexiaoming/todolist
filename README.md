@@ -32,9 +32,11 @@ npm install webpack webpack-cli -D
 ```
 
 不多说写好webpack配置文件，都2020年了，如果还有童鞋不会基础配置，请官网学习一下，我是不会吐槽你的。
+
 ![carbon.png](https://i.loli.net/2020/05/12/n5jrPI4FeSGmYtb.png)
 
 配置package.json
+
 ![carbon _3_.png](https://i.loli.net/2020/05/12/81xftBVkp5bdcQy.png)
 
 我们再Day1文件夹下建立index.js文件，并随便写点代码：
@@ -48,6 +50,7 @@ npm run build
 ```
 
 这时候已经可以在dist目录看到生成的bundle.js文件：
+
 ![bundle.js](https://i.loli.net/2020/05/12/nQD98uys2YOgdAR.png)
 
 现在文件打包功能已经完成，虽然很简陋，但是已经达到我们的目的。接下来我们要用html文件来引入我们最终打包好的文件。
@@ -59,4 +62,5 @@ npm install html-webpack-plugin -D
 ```
 
 修改webpack.config.js：
+
 ![carbon _3_.png](https://i.loli.net/2020/05/12/Ev7qf4soga5yQWX.png)
