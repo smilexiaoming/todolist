@@ -64,3 +64,31 @@ npm install html-webpack-plugin -D
 修改webpack.config.js：
 
 ![carbon _3_.png](https://i.loli.net/2020/05/12/Ev7qf4soga5yQWX.png)
+
+再次执行npm run build，可以看到dist文件加下多了index.html。
+我们看下生成的index.html,自动引入了bundle.js。完美
+
+![carbon.png](https://i.loli.net/2020/05/12/sawuhIqb2HZ5xYE.png)
+
+今天最后一步，配置开发环境，修改文件，浏览器自动更新页面
+
+安装依赖
+```s
+npm install webpack-dev-server -D
+```
+
+修改webpack.config.js：
+
+![carbon _1_.png](https://i.loli.net/2020/05/12/jNLRuClHr591XhF.png)
+
+修改package.json:
+
+![carbon _2_.png](https://i.loli.net/2020/05/12/8gTyjWzVGQ4FmkN.png)
+
+并执行
+```s
+npm run start
+```
+
+打开浏览器，输入localhost:8080,即可在打印台看见打印的信息。
+今天搞完收工，可以安心玩会王者啦！
