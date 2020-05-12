@@ -9,6 +9,7 @@ React + AntDesign + webpack + koa2 + mysql
 # 不积跬步无以至千里
 相信大家日常的业务需求也不会少，当自己想要做做练手项目时，就会以时间不充足为由，然后下班回到家来两把王者...。
 我有办法治理你们的（其实还包括自己，但是我不想告诉你们）懒癌晚期，那就是任务细化，细到一天只写一丢丢代码，让你的懒癌都嫌弃你的懒，从而不愿意继续赖着你。
+所有代码我都将以图片的形式显示，防止你们粘贴复制（好机智）。当然，你们也可以github上来下载所有代码[链接名称](https://github.com/smilexiaoming/todolist#readme)
 
 # 项目开始
 大家先给自己鼓掌
@@ -30,5 +31,10 @@ npm init -y
 npm install webpack webpack-cli -D
 ```
 
-不多说写好webpack配置文件
+不多说写好webpack配置文件，都2020年了，如果还有童鞋不会基础配置，请官网学习一下，我是不会吐槽你的。
 ![carbon.png](https://i.loli.net/2020/05/12/n5jrPI4FeSGmYtb.png)
+
+配置package.json，并执行
+```s
+npm run build
+```
