@@ -20,6 +20,7 @@ React + AntDesign + webpack + koa2 + mysql
 2. 相当丑的界面（没错，恶心自己的）
 
 ### 项目结构
+
 F:\todolist
 ├─.gitignore
 ├─carbon-config.json
@@ -27,7 +28,6 @@ F:\todolist
 ├─package-lock.json
 ├─package.json
 ├─README.md
-├─tree.txt
 ├─webpack.config.js
 ├─public
 |   └index.html
