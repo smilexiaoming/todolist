@@ -23,11 +23,11 @@ React + AntDesign + webpack + koa2 + mysql
 
 F:\todolist
 
-├─ .gitignore
-├─ carbon-config.json
-├─ LICENSE
-├─ package-lock.json
-├─ package.json
+├─ .gitignore 
+├─ carbon-config.json 
+├─ LICENSE 
+├─ package-lock.json 
+├─ package.json 
 ├─ README.md
 ├─ webpack.config.js
 ├─ public
