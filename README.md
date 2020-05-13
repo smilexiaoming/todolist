@@ -22,10 +22,13 @@ React + AntDesign + webpack + koa2 + mysql
 ### 项目结构
 
 F:\todolist
-├─.gitignore
-├─carbon-config.json
-├─LICENSE
-├─package-lock.json
+
+├─.gitignore 
+
+├─carbon-config.json 
+├─LICENSE 
+
+├─package-lock.json 
 ├─package.json
 ├─README.md
 ├─webpack.config.js
