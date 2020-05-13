@@ -19,7 +19,23 @@ React + AntDesign + webpack + koa2 + mysql
 1. 开发环境webpack
 2. 相当丑的界面（没错，恶心自己的）
 
-项目结构
+### 项目结构
+F:\todolist
+├─.gitignore
+├─carbon-config.json
+├─LICENSE
+├─package-lock.json
+├─package.json
+├─README.md
+├─tree.txt
+├─webpack.config.js
+├─public
+|   └index.html
+├─dist
+|  ├─bundle.js
+|  └index.html
+├─Day1
+|  └index.js
 
 初始化npm
 ```s

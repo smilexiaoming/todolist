@@ -1,9 +1,0 @@
-F:\todolist
-├─.gitignore
-├─LICENSE
-├─package-lock.json
-├─package.json
-├─README.md
-├─tree.txt
-├─node_modules
-|      ├─.bin
