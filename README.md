@@ -20,9 +20,7 @@ React + AntDesign + webpack + koa2 + mysql
 2. 相当丑的界面（没错，恶心自己的）
 
 ### 项目结构
-
-F:\todolist
-
+```project
 ├─ .gitignore 
 ├─ carbon-config.json 
 ├─ LICENSE 
@@ -37,7 +35,7 @@ F:\todolist
 |  └ index.html
 ├─ Day1
 |  └ index.js
-
+```
 初始化npm
 ```s
 npm init -y
