@@ -14,8 +14,9 @@ React + AntDesign + webpack + koa2 + mysql
 # 项目开始
 大家先给自己鼓掌
 
-> +[Day1](https://github.com/smilexiaoming/todolist/tree/master/Day1)
-> +[Day2](https://github.com/smilexiaoming/todolist/tree/master/Day2#readme)
+> [Day1](https://github.com/smilexiaoming/todolist/tree/master/Day1)
+
+> [Day2](https://github.com/smilexiaoming/todolist/tree/master/Day2#readme)
 # Day 2
 # 今日目标
 1. 引入react
