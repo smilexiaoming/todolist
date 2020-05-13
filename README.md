@@ -23,22 +23,20 @@ React + AntDesign + webpack + koa2 + mysql
 
 F:\todolist
 
-├─.gitignore 
-
-├─carbon-config.json 
-├─LICENSE 
-
-├─package-lock.json 
-├─package.json
-├─README.md
-├─webpack.config.js
-├─public
-|   └index.html
-├─dist
-|  ├─bundle.js
-|  └index.html
-├─Day1
-|  └index.js
+├─ .gitignore
+├─ carbon-config.json
+├─ LICENSE
+├─ package-lock.json
+├─ package.json
+├─ README.md
+├─ webpack.config.js
+├─ public
+|   └ index.html
+├─ dist
+|  ├─ bundle.js
+|  └ index.html
+├─ Day1
+|  └ index.js
 
 初始化npm
 ```s
